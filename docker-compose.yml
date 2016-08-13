@@ -1,0 +1,8 @@
+version: '2'
+services:
+  robot:
+    build:
+      context: .
+    environment:
+      TOKEN: ''
+      SKIP_VOTES_NEEDED: 3
