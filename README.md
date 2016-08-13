@@ -1,4 +1,4 @@
-# discordpy-playlist
+# docker-discordpy-playlist
 
 This is a complete docker image for discord.py's playlist.py example, with all dependencies included and ready to go.
 
