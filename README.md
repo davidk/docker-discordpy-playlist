@@ -20,6 +20,10 @@ Change TOKEN to your Discord application's API bot token.
 
 Run with `docker-compose up`
 
-# References
+# Source reference
 
- https://github.com/Rapptz/discord.py/blob/master/examples/playlist.py]
+ https://github.com/Rapptz/discord.py/blob/master/examples/playlist.py
+
+# License
+
+See: https://github.com/Rapptz/discord.py/blob/master/LICENSE
